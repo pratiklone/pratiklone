@@ -1,97 +1,18 @@
-# MSc Computer Science - Personal Portfolio & Projects
+# 💫 About Me:
+# MSc Computer Science - Personal Portfolio & Projects<br><br>Welcome to my personal portfolio! I am currently pursuing my Master's in Computer Science (MSc CS) and am passionate about web development, UI/UX design, and building scalable applications. This repository serves as a collection of my projects, skills, and learning progress throughout my studies.<br><br>## Table of Contents<br><br>- [About Me](#about-me)<br>- [Skills](#skills)<br>- [Projects](#projects)<br>- [Learning Progress](#learning-progress)<br>- [Technologies & Tools](#technologies--tools)<br>- [Contact](#contact)<br><br>## About Me<br><br>I am an MSc Computer Science student with a strong foundation in front-end and back-end technologies. Throughout my academic journey, I have developed a keen interest in modern web development, UI/UX design, and database management. I love problem-solving, optimizing performance, and experimenting with new technologies.<br><br>## Skills<br><br>- **Web Development:**<br>  - HTML<br>  - CSS (including Flexbox and Grid)<br>  - JavaScript (ES6+)<br>  - React.js<br>  - Bootstrap (for responsive design)<br>  <br>- **UI/UX Design:**<br>  - Figma (UI/UX Design and Prototyping)<br>  - User Research and Interaction Design<br>  <br>- **Backend & Database:**<br>  - MongoDB (NoSQL Databases)<br>  - Node.js (Express for backend development)<br><br>- **Version Control:**<br>  - Git & GitHub (for version control and collaboration)<br><br>- **Other Technologies:**<br>  - RESTful APIs<br>  - Webpack & Babel (for module bundling and JavaScript transpiling)<br>  - Basic knowledge of Agile & Scrum methodologies<br><br>## Projects<br><br>### 1. **Portfolio Website**<br>   - **Description:** A personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects and achievements.<br>   - **Technologies Used:** HTML, CSS, JavaScript<br><br>### 2. **Task Manager (React App)**<br>   - **Description:** A task management application that allows users to add, edit, delete, and track tasks in real-time.<br>   - **Technologies Used:** React.js, Bootstrap, MongoDB<br><br>### 3. **E-Commerce Site**<br>   - **Description:** A simple e-commerce platform with user authentication, product management, and a shopping cart.<br>   - **Technologies Used:** React.js, Node.js, MongoDB, Express<br><br>### 4. **Design System (Figma)**<br>   - **Description:** A comprehensive design system prototype made in Figma for designing UI components with consistent styles and layout.<br>   - **Technologies Used:** Figma<br><br>## Learning Progress<br><br>- **Currently Learning:**<br>  - Advanced React concepts (Context API, Hooks, Redux)<br>  - Backend development with Node.js and Express.js<br>  - Database optimization and management with MongoDB<br>  - Building full-stack applications with MERN stack (MongoDB, Express, React, Node.js)<br><br>- **Recent Achievements:**<br>  - Completed React.js course on [freeCodeCamp](https://www.freecodecamp.org)<br>  - Built my first full-stack application using MongoDB and Express.js<br><br>## Technologies & Tools<br><br>- **Frontend:**<br>  - HTML, CSS, JavaScript, React.js, Bootstrap<br>- **Design:**<br>  - Figma<br>- **Backend:**<br>  - Node.js, Express.js<br>- **Database:**<br>  - MongoDB<br>- **Version Control:**<br>  - Git & GitHub<br><br>## Contact<br><br>Feel free to reach out if you want to discuss projects, collaborations, or anything related to tech!<br><br>- **Email:** [your-email@example.com]<br>- **GitHub:** [github.com/yourusername]<br>- **LinkedIn:** [linkedin.com/in/yourusername]<br>- **Portfolio:** [your-portfolio-link.com]<br><br>---<br><br>*Thank you for visiting my portfolio and repository! Feel free to explore my projects and get in touch for any queries or collaboration opportunities.*<br>
 
-Welcome to my personal portfolio! I am currently pursuing my Master's in Computer Science (MSc CS) and am passionate about web development, UI/UX design, and building scalable applications. This repository serves as a collection of my projects, skills, and learning progress throughout my studies.
 
-## Table of Contents
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratiklone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pratiklone&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiklone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Learning Progress](#learning-progress)
-- [Technologies & Tools](#technologies--tools)
-- [Contact](#contact)
-
-## About Me
-
-I am an MSc Computer Science student with a strong foundation in front-end and back-end technologies. Throughout my academic journey, I have developed a keen interest in modern web development, UI/UX design, and database management. I love problem-solving, optimizing performance, and experimenting with new technologies.
-
-## Skills
-
-- **Web Development:**
-  - HTML
-  - CSS (including Flexbox and Grid)
-  - JavaScript (ES6+)
-  - React.js
-  - Bootstrap (for responsive design)
-  
-- **UI/UX Design:**
-  - Figma (UI/UX Design and Prototyping)
-  - User Research and Interaction Design
-  
-- **Backend & Database:**
-  - MongoDB (NoSQL Databases)
-  - Node.js (Express for backend development)
-
-- **Version Control:**
-  - Git & GitHub (for version control and collaboration)
-
-- **Other Technologies:**
-  - RESTful APIs
-  - Webpack & Babel (for module bundling and JavaScript transpiling)
-  - Basic knowledge of Agile & Scrum methodologies
-
-## Projects
-
-### 1. **Portfolio Website**
-   - **Description:** A personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects and achievements.
-   - **Technologies Used:** HTML, CSS, JavaScript
-
-### 2. **Task Manager (React App)**
-   - **Description:** A task management application that allows users to add, edit, delete, and track tasks in real-time.
-   - **Technologies Used:** React.js, Bootstrap, MongoDB
-
-### 3. **E-Commerce Site**
-   - **Description:** A simple e-commerce platform with user authentication, product management, and a shopping cart.
-   - **Technologies Used:** React.js, Node.js, MongoDB, Express
-
-### 4. **Design System (Figma)**
-   - **Description:** A comprehensive design system prototype made in Figma for designing UI components with consistent styles and layout.
-   - **Technologies Used:** Figma
-
-## Learning Progress
-
-- **Currently Learning:**
-  - Advanced React concepts (Context API, Hooks, Redux)
-  - Backend development with Node.js and Express.js
-  - Database optimization and management with MongoDB
-  - Building full-stack applications with MERN stack (MongoDB, Express, React, Node.js)
-
-- **Recent Achievements:**
-  - Completed React.js course on [freeCodeCamp](https://www.freecodecamp.org)
-  - Built my first full-stack application using MongoDB and Express.js
-
-## Technologies & Tools
-
-- **Frontend:**
-  - HTML, CSS, JavaScript, React.js, Bootstrap
-- **Design:**
-  - Figma
-- **Backend:**
-  - Node.js, Express.js
-- **Database:**
-  - MongoDB
-- **Version Control:**
-  - Git & GitHub
-
-## Contact
-
-Feel free to reach out if you want to discuss projects, collaborations, or anything related to tech!
-
-- **Email:** [your-email@example.com]
-- **GitHub:** [github.com/yourusername]
-- **LinkedIn:** [linkedin.com/in/yourusername]
-- **Portfolio:** [your-portfolio-link.com]
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pratiklone&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pratiklone&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Thank you for visiting my portfolio and repository! Feel free to explore my projects and get in touch for any queries or collaboration opportunities.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
